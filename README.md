@@ -16,3 +16,4 @@ Coding language is mostly JavaScript.
 | 19  | Remove Nth Node From End of List               | Medium     | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Remove%20Nth%20Node%20From%20End%20of%20List.js)           |
 | 20  | Valid Parentheses                              | Easy       | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Valid%20Parentheses.js)                                    |
 | 21  | Merge Two Sorted Lists                         | Easy       | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/MergeTwoSortedList.js)                                     |
+| 26  | Remove Duplicates from Sorted Array            | Easy       | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Remove%20Duplicates%20from%20Sorted%20Array.js)            |
