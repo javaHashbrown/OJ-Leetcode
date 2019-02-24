@@ -12,4 +12,5 @@ Coding language is mostly JavaScript.
 | 8   | String to Integer (atoi)                       | Medium     | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/String%20to%20Integer%20(atoi).js)                         |
 | 13  | Roman to Integer                               | Easy       | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Roman%20to%20Integer.js)                                   |
 | 14  | Longest Common Prefix                          | Easy       | [JavsScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Longest%20Common%20Prefix.js)                              |
+| 15  | 3Sum                                           | Medium     | [JavsScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/3Sum.js)                                                   |
 | 21  | Merge Two Sorted Lists                         | Easy       | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/MergeTwoSortedList.js)                                     |
