@@ -18,3 +18,4 @@ Coding language is mostly JavaScript.
 | 21  | Merge Two Sorted Lists                         | Easy       | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/MergeTwoSortedList.js)                                     |
 | 26  | Remove Duplicates from Sorted Array            | Easy       | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Remove%20Duplicates%20from%20Sorted%20Array.js)            |
 | 27  | Remove Element                                 | Easy       | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Remove%20Element.js)                                       |
+| 28  | Implement strStr\(\)                           | Easy       | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Implement%20strStr().js)                                   |
