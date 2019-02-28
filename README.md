@@ -7,6 +7,7 @@ Coding language is mostly JavaScript.
 | No. | Title                                          | Difficulty | Solution                                                                                                                         |
 | --- | ---------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Two Sum                                        | Easy       | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/twosum.js)                                                 |
+| 2   | Add Two Numbers                                | Medium     | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Add%20Two%20Numbers.js)                                    |
 | 3   | Longest Substring Without Repeating Characters | Medium     | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Longest%20Substring%20Without%20Repeating%20Characters.js) |
 | 7   | Reverse Integer                                | Easy       | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Reverse%20Integer.js)                                      |
 | 8   | String to Integer (atoi)                       | Medium     | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/String%20to%20Integer%20(atoi).js)                         |
