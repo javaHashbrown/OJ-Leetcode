@@ -26,3 +26,4 @@ Coding language is mostly JavaScript.
 | 34  | Find First and Last Position of Element in Sorted Array | Medium     | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Find%20First%20and%20Last%20Position%20of%20Element%20in%20Sorted%20Array.js) |
 | 35  | Search Insert Position                                  | Easy       | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Search%20Insert%20Position.js)                                                |
 | 36  | Valid Sudoku                                            | Medium     | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Valid%20Sudoku.js)                                                            |
+| 38  | Count and Say                                           | Easy       | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Count%20and%20Say.js)                                                         |
