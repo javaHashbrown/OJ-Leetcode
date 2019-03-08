@@ -28,4 +28,4 @@ Coding language is mostly JavaScript.
 | 36  | Valid Sudoku                                            | Medium     | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Valid%20Sudoku.js)                                                            |
 | 38  | Count and Say                                           | Easy       | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Count%20and%20Say.js)                                                         |
 | 48  | Rotate Image                                            | Medium     | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Rotate%20Image.js)                                                            |
-|     |
+| 49  | Group Anagrams                                          | Medium     | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Group%20Anagrams.js)                                                          |
