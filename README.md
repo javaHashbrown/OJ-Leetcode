@@ -36,3 +36,4 @@ Coding language is mostly JavaScript.
 | 54  | Spiral Matrix                                           | Medium     | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Spiral%20Matrix.js)                                                           |
 | 55  | Jump Game                                               | Medium     | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Jump%20Game.js)                                                               |
 | 56  | Merge Interval                                          | Medium     | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Merge%20Interval.js)                                                          |
+| 66  | Plus One                                                | Easy       | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Plus%20One.js)                                                                |
