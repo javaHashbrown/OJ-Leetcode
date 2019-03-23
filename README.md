@@ -42,3 +42,4 @@ Coding language is mostly JavaScript.
 | 56  | Merge Interval                                          | Medium     | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Merge%20Interval.js)                                                          |
 | 66  | Plus One                                                | Easy       | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Plus%20One.js)                                                                |
 | 67  | Add Binary                                              | Easy       | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Add%20Binary.js)                                                              |
+| 240 | Search a 2D Matrix II                                   | Medium     | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Search%20a%202D%20Matrix%20II.js)                                             |
