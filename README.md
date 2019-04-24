@@ -59,4 +59,5 @@ Coding language is mostly JavaScript.
 |101 | Symmetric Tree| Easy |[JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Symmetric%20Tree.js)|
 |102| Binary Tree Level Order Traversal | Medium |[JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Binary%20Tree%20Level%20Order%20Traversal.js)|
 |103| Binary Tree Zigzag Level Order Traversal | Medium | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Binary%20Tree%20Zigzag%20Level%20Order%20Traversal.js)|
+|104|Maximum Depth of Binary Tree|Easy | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Maximum%20Depth%20of%20Binary%20Tree.js)|
 | 240 | Search a 2D Matrix II                                   | Medium     | [JavaScript](https://github.com/javaHashbrown/OJ-Leetcode/blob/master/Search%20a%202D%20Matrix%20II.js)                                             |
